@@ -6,3 +6,5 @@ This assignment compares the differences in convolutional neural networks (CNN),
 Dataset Discription:
 * `toronto_face.npz`
   * Contains 3374, 419 and 385 grayscale 48x48 images from TFD for the training, validation and testing sets respectively.
+
+Tausif S., 2016
